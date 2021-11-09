@@ -1,0 +1,47 @@
+
+    body{
+        font-family: 'Dongle', sans-serif;
+        font-size: 30px;
+        background-color: rgb(0, 0, 0);
+    }
+    .container{
+        width: 500px;
+        height: 700px;
+        margin: auto;
+        margin-top: 10px;
+        background-color: #FF9900;
+        border-radius: 40px;
+    }
+    input{
+        margin-left: 150px;
+        margin-top: 30px;
+        width: 200px;
+        height: 20px;
+        border-radius: 10px;
+        background-color: #ffdba6;
+    }
+    .inputword{
+        font-size: 40px;
+        color: rgb(255, 242, 217);
+        margin-left: 30px ; 
+        font-family: 'Alfa Slab One', cursive;
+    }
+    h4{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 30px;
+        color: rgb(255, 242, 217);
+        display: inline-block;
+      
+        border-radius: 2px;
+        padding: 3px;
+    }
+    .meaning, .sentence , .phonetics{
+        margin-left: 30px;
+        margin-right: 30px;
+        color: rgb(63, 38, 1);
+        margin-top: 0px;
+        
+        border-radius: 2px;
+        padding: 3px;
+    }
